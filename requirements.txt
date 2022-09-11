@@ -1,4 +1,5 @@
-streamlit 
-opencv-python
 tensorflow-cpu
 numpy
+streamlit
+opencv-contrib-python-headless
+streamlit-webrtc
